@@ -8,7 +8,7 @@
     "start": "node server.js",
     "client": "lite-server --baseDir='public' "
   },
-  "author": "Dan McGhan",
+  "author": "Prudvi Gali",
   "license": "MIT",
   "devDependencies": {
     "body-parser": "^1.11.0",
